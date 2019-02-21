@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bm000010-master-b48f09e9d5572743215f81aeea099a9bce8e1759.iml" filepath="$PROJECT_DIR$/bm000010-master-b48f09e9d5572743215f81aeea099a9bce8e1759.iml" />
+    </modules>
+  </component>
+</project>

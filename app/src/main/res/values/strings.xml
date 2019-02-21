@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JAVAGAME</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mode_ready">Ready</string>
+    <string name="mode_pause">Pause</string>
+    <string name="mode_lose">Lose</string>
+    <string name="mode_win">Win</string>
+    <string name="score_text">0</string>
+    <string name="target">0</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_resume">Resume</string>
+    <string name="message_stopped">Stopped</string>
+    <string name="level_creation_info">Fill in the fields with numeric values, press confirm to create your level and play it.</string>
+    <string name="back_to_menu">Main menu</string>
+    <string name="clear_all">Clear all</string>
+    <string name="confirm">Confirm</string>
+    <string name="number_of_smart_enemies">Number of smart enemies</string>
+    <string name="number_of_regular_enemies">Number of regular enemies</string>
+    <string name="number_of_obstacles">Number of obstacles</string>
+    <string name="score_to_win">Score to win</string>
+    <string name="snakegame_level_creator">SnakeGame Level Creator</string>
+    <string name="snakegame">SnakeGame</string>
+    <string name="snakegame_highscores">SnakeGame Highscores</string>
+    <string name="score1">score1</string>
+    <string name="score2">score2</string>
+    <string name="score3">score3</string>
+    <string name="score4">score4</string>
+    <string name="score5">score5</string>
+    <string name="back_to_main_menu">Back to main menu</string>
+    <string name="snakegame_manual_n">SnakeGame Manual</string>
+    <string name="manual1">Move the snake around the screen to collect red tokens.</string>
+    <string name="manual2">Tap the screen at the top, bottom, right or left side to make the snake turn in the required direction.</string>
+    <string name="manual3">Avoid the obstacles (grey circles) and enemies (black and pink).</string>
+    <string name="manual4">Black enemies move around the screen at random, pink ones aim to collect the red tokens.</string>
+    <string name="manual5">Your score is displayed in the top right corner, to win a level you need to reach 5 points.</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Sun Apr 15 13:21:53 BST 2018
+base.0=C\:\\Users\\Anna\\Downloads\\bm000010-master-b48f09e9d5572743215f81aeea099a9bce8e1759\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
